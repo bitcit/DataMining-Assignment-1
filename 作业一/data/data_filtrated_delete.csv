@@ -1,0 +1,7 @@
+,surgery,Age,Hospital_Number,rectal_temperature,pulse,respiratory_rate,temperature_of_extremities,peripheral_pulse,mucous_membranes,capillary_refill_time,pain,peristalsis,abdominal_distension,nasogastric_tube,nasogastric_reflux,nasogastric_reflux_PH,rectal_examination_feces,abdomen,packed_cell_volume,total_protein,abdominocentesis_appearance,abdomcentesis_total_protein,outcome,surgical_lesion,type_of_lesion_1,type_of_lesion_2,type_of_lesion_3,cp_data
+10,1.0,1,528548,38.1,66.0,12.0,3.0,3.0,5.0,1.0,3.0,3.0,1.0,2.0,1.0,3.0,2.0,5.0,44.0,6.0,2.0,3.6,1.0,1,2124,0,0,1
+54,2.0,1,529461,40.3,114.0,36.0,3.0,3.0,1.0,2.0,2.0,3.0,3.0,2.0,1.0,7.0,1.0,5.0,57.0,8.1,3.0,4.5,3.0,1,7400,0,0,1
+64,1.0,1,529667,39.0,64.0,36.0,3.0,1.0,4.0,2.0,3.0,3.0,2.0,1.0,2.0,7.0,4.0,5.0,44.0,7.5,3.0,5.0,1.0,1,2113,0,0,1
+91,2.0,1,529461,40.3,114.0,36.0,3.0,3.0,1.0,2.0,2.0,3.0,3.0,2.0,1.0,7.0,1.0,5.0,57.0,8.1,3.0,4.5,2.0,1,3205,0,0,1
+104,1.0,1,527563,37.8,52.0,24.0,1.0,3.0,3.0,1.0,4.0,4.0,1.0,2.0,3.0,5.7,2.0,5.0,48.0,6.6,1.0,3.7,2.0,1,5400,0,0,2
+189,1.0,1,5299603,38.3,60.0,16.0,3.0,1.0,1.0,1.0,2.0,1.0,1.0,2.0,2.0,3.0,1.0,4.0,30.0,6.0,1.0,3.0,1.0,1,31110,0,0,2
